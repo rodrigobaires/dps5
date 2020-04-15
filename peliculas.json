@@ -1,0 +1,166 @@
+[
+	{
+	  "id": 1,
+	  "team_name": "Forrest",
+	  "since": "1886",
+	  "coach": "ArsÃ¨ne Wenger",
+	  "team_nickname": "The Gunners",
+	  "stadium": "EMIRATES STADIUM",
+    "img_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/870px-Arsenal_FC.svg.png",
+    "img_stadium": "https://image.tmdb.org/t/p/original//4fT3pmeO7NnyT1TBkSElIDhVThU.jpg",
+	  "latitude": "51.554888",
+	  "longitude": "-0.108438",
+	  "website": "http://www.arsenal.com/",
+	  "tickets_url": "http://www.arsenal.com/tickets",
+	  "address": "Hornsey Road, London N7 7AJ, United Kingdom",
+	  "phone_number": "+44 20 7619 5003",
+	  "description": "Arsenal Football Club exists to make our fans proud wherever they are in the world and however they choose to follow us.",
+	  "video_url": "https://www.youtube.com/watch?v=YsWMJabIaQY",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-26 18:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    },
+	    {
+	      "date": "2015-05-04 17:00:00 +0100",
+	      "stadium": "The KC Stadium"
+	    },
+	    {
+	      "date": "2015-05-11 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 2,
+	  "team_name": "The Terminal",
+	  "since": "1874",
+	  "coach": "Tim Sherwood",
+	  "team_nickname": "The Villans",
+	  "stadium": "VILLA PARK",
+	  "img_logo": "https://www.error.com/error",
+	  "img_stadium": "https://i.ebayimg.com/images/g/yQIAAOSwJGdbvdKi/s-l400.jpg",
+	  "latitude": "52.509896",
+	  "longitude": "-1.885852",
+	  "website": "http://www.avfc.co.uk/",
+	  "tickets_url": "https://www.eticketing.co.uk/avfc/default.aspx",
+	  "address": "Trinity Rd, Birmingham B6 6HE, United Kingdom",
+	  "phone_number": "+44 800 612 0970",
+	  "description": "Aston Villa are among the oldest and the most successful football clubs in the history of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=FtlMTrtOmzE",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "White Hart Lane"
+	    },
+	    {
+	      "date": "2015-04-25 18:00:00 +0100",
+	      "stadium": "Etihad Stadium"
+	    },
+	    {
+	      "date": "2015-05-02 17:00:00 +0100",
+	      "stadium": "Villa Park"
+	    }
+	  ]
+	},
+	{
+	  "id": 3,
+	  "team_name": "Saving Private Ryan",
+	  "since": "1882",
+	  "coach": "Sean Dyche",
+	  "team_nickname": "The Clarets",
+	  "stadium": "Turf Moor",
+	  "img_logo": "https://lh4.googleusercontent.com/-nteZr1o0mYE/AAAAAAAAAAI/AAAAAAAAAD4/-fxGINvK_jY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "https://cdn.shopify.com/s/files/1/1416/8662/products/saving_private_ryan_1998_british_quad_original_film_art_f_2000x.jpg?v=1571951108",
+	  "latitude": "53.789167",
+	  "longitude": "-2.230278",
+	  "website": "http://www.burnleyfootballclub.com/",
+	  "tickets_url": "http://www.burnleyfootballclub.com/tickets/",
+	  "address": "Harry Potts Way, Burnley, Lancashire, England",
+	  "phone_number": "+44 0871 221 1914",
+	  "description": "Burnley Football Club are a professional football club based in Burnley, Lancashire, who play in the Premier League, the highest level of English football. Nicknamed The Clarets, due to the dominant colour of their home shirts, they were one of the founder members of the Football League in 1888.",
+	  "video_url": "https://www.youtube.com/watch?v=gprG5_Gcic4",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Goodison Park"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    }
+	  ]
+	},
+	{
+	  "id": 4,
+	  "team_name": "Joker",
+	  "since": "1905",
+	  "coach": "JosÃ© Mourinho",
+	  "team_nickname": "The Blues",
+	  "stadium": "Stamford Bridge",
+	  "img_logo": "https://lh3.googleusercontent.com/-_-grPaix4ZQ/AAAAAAAAAAI/AAAAAAAAr30/P4xhpy_3OwY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "https://media.vandalsports.com/i/640x360/9-2019/201995175148_1.jpg",
+	  "latitude": "51.481667",
+	  "longitude": "-0.191111",
+	  "website": "http://www.chelseafc.com/",
+	  "tickets_url": "http://www.chelseafc.com/tickets-membership/tickets-home.html#match=none",
+	  "address": "Fulham, London, SW6 1HS, England",
+	  "phone_number": "00 44 20 7835 6000",
+	  "description": "Chelsea Football Club are a professional football club based in Fulham, London, who play in the Premier League, the highest level of English football. Founded in 1905, the club have spent most of their history in the top tier of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=06_xB2Sc7E8",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-12 17:00:00 +0100",
+	      "stadium": "Loftus Road Stadium"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Stamford Bridge"
+	    },
+	    {
+	      "date": "2015-04-26 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 5,
+	  "team_name": " Avengers Endgame",
+	  "since": "1905",
+	  "coach": "Alan Pardew",
+	  "team_nickname": "The Eagles",
+	  "stadium": "Selhurst Park",
+	  "img_logo": "https://lh3.googleusercontent.com/-WrI8hqpRM2A/AAAAAAAAAAI/AAAAAAAAAEM/d2Zoyt21sh0/photo.jpg",
+	  "img_stadium": "data:image/jpeg;base64,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",
+	  "latitude": "51.39828",
+	  "longitude": "-0.085485",
+	  "website": "http://www.cpfc.co.uk/club/visit-us/",
+	  "tickets_url": "https://www.cpfctickets.com/",
+	  "address": "Whitehorse Lane, London SE25 6PU, United Kingdom",
+	  "phone_number": "+44 20 8768 6000",
+	  "description": "Crystal Palace Football Club is an English professional football club based in South Norwood, London. They currently play in the highest level in English football, the Premier League.",
+	  "video_url": "https://www.youtube.com/watch?v=q7aUh70CApA",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Stadium of Light"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Selhurst Park"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "Selhurst Park"
+	    }
+	  ]
+	},
+]
